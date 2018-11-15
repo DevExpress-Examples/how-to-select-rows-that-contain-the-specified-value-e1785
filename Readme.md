@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/AgDataGrid_SelectRows/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_SelectRows/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AgDataGrid_SelectRows/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AgDataGrid_SelectRows/MainPage.xaml))
+* [Products.cs](./CS/AgDataGrid_SelectRows/Products.cs) (VB: [Products.vb](./VB/AgDataGrid_SelectRows/Products.vb))
+<!-- default file list end -->
 # How to Select Rows That Contain the Specified Value
 
 
